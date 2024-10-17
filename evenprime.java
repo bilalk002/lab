@@ -7,8 +7,8 @@ public class evenprime {
 	public void even(int even) {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("enter No :");
-		int num=sc.nextInt();
-		if(num%2==0) {
+		int num1=sc.nextInt();
+		if(num1%2==0) {
 			System.out.println("The Number Is even "+ num);
 		}
 		else{
